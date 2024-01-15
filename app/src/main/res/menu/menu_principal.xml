@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ItemCompletar"
+        android:title="@string/completar" />
+    <item
+        android:id="@+id/ItemModificar"
+        android:title="@string/modificar" />
+    <item
+        android:id="@+id/Itemeliminar"
+        android:title="@string/eliminar" />
+    <item
+        android:id="@+id/ItemEnviar"
+        android:title="@string/enviar" />
+
+    <item android:id="@+id/m_area"
+        android:title="@string/formato">
+        <menu>
+            <item android:id="@+id/formatoGrande" android:title="@string/formatoGrande"></item>
+            <item android:id="@+id/formatoPequeño" android:title="@string/formatoPequeño"></item>
+        </menu>
+    </item>
+</menu>

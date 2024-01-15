@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SergioGarciaGomez_Examen2</string>
+    <string name="completar">Completar</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="enviar">Enviar</string>
+    <string name="formato">Tamaño</string>
+    <string name="formatoGrande">Grande</string>
+    <string name="formatoPequeño">Pequeño</string>
+    <string name="anadir">Añadir</string>
+    <string name="titulo">Titulo</string>
+    <string name="fecha">Fecha</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="completo">Completo</string>
+    <string name="guardar">Guardar</string>
+    <string name="volver">Volver</string>
+    <string name="limpiar">Limpiar</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
